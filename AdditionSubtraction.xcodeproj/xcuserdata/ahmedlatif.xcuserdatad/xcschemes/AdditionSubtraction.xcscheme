@@ -61,6 +61,12 @@
             ReferencedContainer = "container:AdditionSubtraction.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
+      <CommandLineArguments>
+         <CommandLineArgument
+            argument = "/Users/ahmedlatif/Desktop/SimpleTestData.dat"
+            isEnabled = "YES">
+         </CommandLineArgument>
+      </CommandLineArguments>
       <AdditionalOptions>
       </AdditionalOptions>
    </LaunchAction>
